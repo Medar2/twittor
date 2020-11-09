@@ -17,6 +17,7 @@ const APP_SHELL = [
     'img/avatars/hulk.jpg',
     'js/app.js',
     'js/sw-utils.js',
+    'manifest.json',
 
 ];
 
